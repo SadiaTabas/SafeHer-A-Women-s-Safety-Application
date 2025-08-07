@@ -45,4 +45,12 @@ This project uses the **Scrum** framework under the Agile methodology. Scrum was
 * Accommodates frequent user feedback and requirement changes
 * Encourages collaboration between developers, users, and stakeholders
 * Provides structured roles: Scrum Master, Product Owner, Scrum Team
-  
+
+
+ ## License
+
+This project is licensed under the MIT License.  
+Copyright © 2025 [Tabassum Aktar Sadia]((https://github.com/SadiaTabas))
+
+See the [LICENSE](LICENSE) file for more information.
+ 
